@@ -6,4 +6,4 @@ you are allowed to do whatever the fuck you want with the source code. your only
 have fun
 
 
-Memix: https://brighteyesfox.itch.io/hilarity
+**Memix:** https://brighteyesfox.itch.io/hilarity *(Requires GDevelop 5)*
